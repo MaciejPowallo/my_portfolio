@@ -1,0 +1,848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"btn-s",
+				"btn-sm \tBootstrap 4 Class"
+			],
+			[
+				"show",
+				"shownGross\tproperty"
+			],
+			[
+				"fo",
+				"font-awesome/"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"c",
+				"cars.module\tscript"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"table-s",
+				"table-striped \tBootstrap 4 Class"
+			],
+			[
+				"boo",
+				"bootstrap/"
+			],
+			[
+				"d",
+				"dist"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mo",
+				"modal\tmodal"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"outer",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"edit",
+				"edit_link"
+			],
+			[
+				"strlo",
+				"strtolower"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"styl",
+				"style\tTag"
+			],
+			[
+				"da",
+				"datastring"
+			],
+			[
+				"pre",
+				"prepend\t.prepend()"
+			],
+			[
+				"sub",
+				"submit\t.submit()"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"s",
+				"script\tHTML - Script"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"se",
+				"server"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"m_",
+				"m_template.php"
+			],
+			[
+				"setAlert",
+				"setAlertTypes"
+			],
+			[
+				"setAl",
+				"setAlertTypes"
+			],
+			[
+				"htmlentit",
+				"htmlentities"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"fl",
+				"flush"
+			],
+			[
+				"bg",
+				"bgz:cv\tbackground-size:cover"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 237.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:Install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package:li",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/cars-list/cars-list.component.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/cars-list/models/client.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/cars-list/cars-list.component.css",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/total-cost/total-cost.component.css",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/total-cost/total-cost.component.html",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/total-cost/total-cost.component.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/cars-list/cars-list.component.html",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/cars-list/models/car.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/cars.module.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/app.component.html",
+		"/E/Strony/Angular - FirstApp/CarService/.angular-cli.json",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/app.component.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/app.module.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/styles.less",
+		"/E/Strony/Angular - FirstApp/CarService/src/assets/styles/base.less",
+		"/E/Strony/Angular - FirstApp/CarService/src/assets/styles/tables.less",
+		"/E/Strony/Angular - FirstApp/CarService/src/assets/styles/variables.less",
+		"/E/Strony/portfolio/less/main-style.less",
+		"/E/Strony/portfolio/index.html",
+		"/E/Strony/portfolio/js/appendFile.js",
+		"/E/Strony/portfolio/skills.html",
+		"/E/Strony/portfolio/package.json",
+		"/E/Strony/portfolio/less/variables.less",
+		"/E/Strony/portfolio/modals.html",
+		"/E/Strony/portfolio/js/hideMe.js",
+		"/E/Strony/Angular - FirstApp/CarService/node_modules/font-awesome/package.json",
+		"/E/Strony/Angular - FirstApp/CarService/src/app/cars/cars-list/cars-list.component.spec.ts",
+		"/E/Strony/Angular - FirstApp/CarService/src/assets/styles",
+		"/E/Strony/Angular - FirstApp/ConstructionCompany/package.json",
+		"/E/Strony/puh powallo/index.html",
+		"/E/Strony/Angular - FirstApp/ConstructionCompany/src/assets/styles/base.less",
+		"/E/Strony/Angular - FirstApp/ConstructionCompany/src/styles.less",
+		"/E/Strony/Angular - FirstApp/ConstructionCompany/src/assets/styles/tables.less",
+		"/E/Strony/Angular - FirstApp/ConstructionCompany/src/assets/styles/variables.less",
+		"/C/Users/macie/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/E/Strony/Angular - FirstApp/ConstructionCompany/.angular-cli.json",
+		"/E/Strony/CMS/app/login.php",
+		"/E/Strony/CMS/app/init.php",
+		"/E/Strony/upload_neobud_CMS/app/init.php",
+		"/E/Strony/CMS/app/core/core.php",
+		"/E/Strony/upload_neobud_CMS/app/panel/views/v_panel.php",
+		"/E/Strony/CMS/app/core/models/m_auth.php",
+		"/E/Strony/neobud_CMS/app/init.php",
+		"/E/Strony/neobud_CMS/app/logout.php",
+		"/E/Strony/upload_neobud_CMS/index.php",
+		"/E/Strony/neobud_CMS/app/settings/password.php",
+		"/E/Strony/neobud_CMS/app/settings/users.php",
+		"/E/Strony/neobud_CMS/app/panel/views/v_panel.php",
+		"/E/Strony/neobud_CMS/app/panel/index.php",
+		"/E/Strony/neobud_CMS/app/core/core.php",
+		"/E/Strony/neobud_CMS/app/cms/edit.php",
+		"/E/Strony/neobud_CMS/app/cms/views/v_saving.php",
+		"/E/Strony/neobud_CMS/app/cms/models/m_cms.php",
+		"/E/Strony/upload_neobud_CMS/sold/detached-house.php",
+		"/E/Strony/upload_neobud_CMS/sold/terraced-house.php",
+		"/E/Strony/upload_neobud_CMS/sold/semi-detached-house.php",
+		"/E/Strony/upload_neobud_CMS/app/core/templates/t_login.php",
+		"/E/Strony/upload_neobud_CMS/contact.php",
+		"/E/Strony/upload_neobud_CMS/about.php",
+		"/E/Strony/upload_neobud_CMS/app/core/templates/t_nav.php",
+		"/E/Strony/upload_neobud_CMS/forsale/detached-house.php",
+		"/E/Strony/upload_neobud_CMS/forsale/semi-detached-house.php",
+		"/E/Strony/upload_neobud_CMS/forsale/terraced-house.php",
+		"/E/Strony/upload_neobud_CMS/app/core/templates/t_toolbar.php",
+		"/E/Strony/upload_neobud_CMS/app/core/templates/t_footer.php",
+		"/E/Strony/upload_neobud_CMS/news.php",
+		"/E/Strony/upload_neobud_CMS/security.php",
+		"/E/Strony/neobud_CMS/app/contact_me.php",
+		"/E/Strony/upload_neobud_CMS/app/logout.php",
+		"/E/Strony/upload_neobud_CMS/app/core/models/m_auth.php",
+		"/E/Strony/upload_neobud_CMS/app/settings/carouselimage.php",
+		"/E/Strony/upload_neobud_CMS/app/settings/add_news.php",
+		"/E/Strony/upload_neobud_CMS/app/settings/investments.php",
+		"/E/Strony/upload_neobud_CMS/app/settings/linksimage.php",
+		"/C/Users/macie/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/font-awesome.min.css",
+		"/E/Strony/upload_neobud_CMS/app/res/less/variables.less",
+		"/E/Strony/upload_neobud_CMS/app/res/less/main-style.less",
+		"/E/Strony/neobud_CMS/app/res/less/variables.less",
+		"/E/Strony/neobud_CMS/app/res/less/main-style.less",
+		"/E/Strony/neobud_CMS/sold/detached-house.php",
+		"/E/Strony/neobud_CMS/security.php",
+		"/E/Strony/neobud_CMS/README.md",
+		"/E/Strony/neobud_CMS/index.php",
+		"/E/Strony/neobud_CMS/contact.php",
+		"/E/Strony/neobud_CMS/about.php",
+		"/E/Strony/neobud_CMS/controllers/about_images.php",
+		"/E/Strony/neobud_CMS/app/core/templates/t_footer.php",
+		"/E/Strony/neobud_CMS/app/res/js/cookies.min.js",
+		"/E/Strony/neobud_CMS/news.php",
+		"/E/Strony/neobud_CMS/controllers/news_list.php",
+		"/E/Strony/neobud_CMS/app/settings/views/v_investments.php",
+		"/E/Strony/neobud_CMS/app/settings/views/v_news.php",
+		"/E/Strony/neobud_CMS/forsale/controllers/invest_list.php",
+		"/E/Strony/neobud_CMS/forsale/detached-house.php",
+		"/E/Strony/neobud_CMS/app/settings/views/v_password.php",
+		"/E/Strony/neobud_CMS/sold/controllers/invest_list.php",
+		"/E/Strony/neobud_CMS/app/res/css/main-style.min.css",
+		"/E/Strony/neobud_CMS/forsale/controllers/invest_item.php",
+		"/E/Strony/neobud_CMS/forsale/controllers/sale_invest.php",
+		"/E/Strony/neobud_CMS/sold/controllers/undo_invest.php",
+		"/E/Strony/neobud_CMS/app/settings/models/m_settings.php",
+		"/E/Strony/neobud_CMS/forsale/controllers/delete_invest.php",
+		"/E/Strony/neobud_CMS/sold/controllers/delete_invest.php",
+		"/E/Strony/neobud_CMS/forsale/controllers/add_image.php",
+		"/E/Strony/neobud_CMS/app/settings/add_news.php",
+		"/E/Strony/neobud_CMS/controllers/news_item.php",
+		"/E/Strony/neobud_CMS/controllers/delete_news.php",
+		"/E/Strony/neobud_CMS/sold/semi-detached-house.php",
+		"/E/Strony/neobud_CMS/sold/terraced-house.php",
+		"/E/Strony/neobud_CMS/forsale/semi-detached-house.php",
+		"/E/Strony/neobud_CMS/forsale/terraced-house.php",
+		"/E/Strony/neobud_CMS/app/settings/templates/t_nav.php",
+		"/E/Strony/neobud_CMS/app/settings/investments.php",
+		"/E/Strony/neobud_CMS/app/settings/carouselimage.php",
+		"/E/Strony/neobud_CMS/app/settings/linksimage.php",
+		"/E/Strony/neobud_CMS/app/settings/templates/t_investments_head.php",
+		"/E/Strony/neobud_CMS/app/core/templates/t_nav.php",
+		"/C/Users/macie/Desktop/tinymce/examples/full.html",
+		"/E/Strony/neobud_CMS/app/settings/views/v_linksimage.php",
+		"/E/Strony/neobud_CMS/controllers/add_image.php",
+		"/E/Strony/neobud_CMS/app/core/templates/t_investments_head.php",
+		"/E/Strony/neobud_CMS/app/cms/views/v_edit.php",
+		"/C/Users/macie/Desktop/tinymce/examples/index.html",
+		"/E/Strony/neobud_CMS/app/settings/views/v_carouselimage.php",
+		"/E/Strony/neobud_CMS/app/res/lightbox/js/lightbox.js",
+		"/E/Strony/neobud_CMS/app/settings/views/v_users.php",
+		"/E/Strony/neobud_CMS/controllers/alerts.php",
+		"/E/Strony/neobud_CMS/controllers/news_index.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id=\"modals\"",
+			"class=\"box\"",
+			"about",
+			"jquer",
+			"front-end",
+			"</h4>",
+			"\t\t\t\t<div class=\"col-md-4 col-sm-12 border-box\">",
+			"<td> {{ car.model }} </td>",
+			"Tekst",
+			"div",
+			"selection ",
+			"app/res",
+			"app/res/",
+			"sold-img",
+			"news-img",
+			"moving_arrow",
+			"box",
+			"background-",
+			"'",
+			"`",
+			"$_POST[",
+			"forsale",
+			">\n",
+			"new",
+			"text-hidden",
+			"text-red",
+			"selectNews",
+			";\n",
+			"ShowImageNumberLabel",
+			"images",
+			"session_start();",
+			"50",
+			"close",
+			"modal",
+			"fade",
+			"inpu",
+			"file",
+			"v_newse.php",
+			"v_carouselimage",
+			"v_carouselimage.php",
+			"v_carouselimage",
+			"echo",
+			"margin",
+			"md",
+			" 1px",
+			"contact",
+			"success",
+			"contac",
+			"required",
+			"required-message",
+			"data-validation-required-message",
+			"contact",
+			"contact.php",
+			"overlay",
+			"navbar-fixed-top",
+			"page-scroll",
+			"navbar-fixed-top",
+			"contact",
+			"Contact",
+			"script",
+			"2",
+			"btn",
+			"changePassword",
+			"SK",
+			">\n",
+			"claen_block_id",
+			"clean_block_id",
+			"sk",
+			"70",
+			"10px",
+			"10",
+			"100",
+			"width:100px; height: 100px;",
+			"tool",
+			"cboxClose",
+			"close",
+			"opacity",
+			"indentation",
+			"<br>",
+			"scroll",
+			"scroll-top",
+			"scroll",
+			"opacity",
+			"a{",
+			"a",
+			"style=\"max-height: 650px; width: 100%; overflow: hidden; \"",
+			"</strong>",
+			";\n",
+			"navbar-collapse",
+			"80",
+			"navbar-brand",
+			"navbar-fixed",
+			"navbar-fixed-top",
+			"logo",
+			"page-top",
+			"@theme-primary",
+			"Custom",
+			"custom",
+			"affix",
+			"@theme-primary",
+			"@theme-primary;",
+			"POST",
+			"'); ",
+			"hasło123",
+			"projekt strony www<",
+			"Kategoria",
+			"Data:",
+			"</i> Close",
+			"close",
+			"Close",
+			"close",
+			"Close",
+			"close",
+			"Close",
+			"z-index",
+			"#scroll-to-top",
+			"scroll-to-top",
+			"background-image",
+			"intro-lead-in",
+			"about",
+			"About",
+			"about",
+			"Services",
+			"services",
+			",",
+			"warehouse",
+			"employees_id",
+			"employee_id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"va",
+				"app\\res\\less\\variables.less"
+			],
+			[
+				"ini",
+				"app\\init.php"
+			],
+			[
+				"a",
+				"about.php"
+			],
+			[
+				"m_a",
+				"app\\core\\models\\m_auth.php"
+			],
+			[
+				"authcontroll",
+				"app\\Http\\Controllers\\Auth\\LoginController.php"
+			],
+			[
+				"mai",
+				"public\\css\\main.css"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"slide",
+				"public\\css\\slide_navigation.css"
+			],
+			[
+				"prin",
+				"resources\\assets\\sass\\print.scss"
+			],
+			[
+				"_va",
+				"resources\\assets\\sass\\_variables.scss"
+			],
+			[
+				"main",
+				"resources\\assets\\sass\\main.scss"
+			],
+			[
+				"varia",
+				"resources\\assets\\sass\\_variables.scss"
+			],
+			[
+				"main.s",
+				"resources\\assets\\sass\\main.scss"
+			],
+			[
+				"_vari",
+				"resources\\assets\\sass\\_variables.scss"
+			],
+			[
+				"mast",
+				"resources\\views\\master.blade.php"
+			],
+			[
+				"a557a69b34c265ebd12c908622371ee0b42ef336.php",
+				"storage\\framework\\views\\a557a69b34c265ebd12c908622371ee0b42ef336.php"
+			],
+			[
+				"var",
+				"node_modules\\less\\test\\less\\variables.less"
+			],
+			[
+				"print",
+				"resources\\assets\\sass\\print.scss"
+			],
+			[
+				"routecollection.php",
+				"vendor\\symfony\\routing\\RouteCollection.php"
+			],
+			[
+				"8939a1af588bdd3bb9083cac453ec71e4686e909.php",
+				"storage\\framework\\views\\8939a1af588bdd3bb9083cac453ec71e4686e909.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"ecbc22ccfc170ed3ae4b5583410d4c65c13f3627.php",
+				"storage\\framework\\views\\ecbc22ccfc170ed3ae4b5583410d4c65c13f3627.php"
+			],
+			[
+				"06823b89592e8132e19b555e9d472232afa7eed6.php",
+				"storage\\framework\\views\\06823b89592e8132e19b555e9d472232afa7eed6.php"
+			],
+			[
+				"a879945baae29cb4f8db089d2a71b1253ba26f9b.php",
+				"storage\\framework\\views\\a879945baae29cb4f8db089d2a71b1253ba26f9b.php"
+			],
+			[
+				"validatesrequests.php",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Validation\\ValidatesRequests.php"
+			],
+			[
+				"validator.php",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Validation\\Validator.php"
+			],
+			[
+				"handler.php",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"5f16865b81ad8b1f48e6d87ccea3ad738574746c",
+				"storage\\framework\\views\\5f16865b81ad8b1f48e6d87ccea3ad738574746c.php"
+			],
+			[
+				"we",
+				"routes\\web.php"
+			],
+			[
+				"vali",
+				"resources\\lang\\pl\\validation.php"
+			],
+			[
+				"search",
+				"node_modules\\caniuse-db\\features-json\\input-search.json"
+			],
+			[
+				"ela",
+				"vendor\\monolog\\monolog\\src\\Monolog\\Formatter\\ElasticaFormatter.php"
+			],
+			[
+				"elasric",
+				"vendor\\monolog\\monolog\\tests\\Monolog\\Handler\\ElasticSearchHandlerTest.php"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"sear",
+				"public\\js\\search.js"
+			],
+			[
+				"users/i",
+				"resources\\views\\users\\index.blade.php"
+			],
+			[
+				"w",
+				"routes\\web.php"
+			],
+			[
+				"loadconfiguration.php",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"session.php",
+				"config\\session.php"
+			],
+			[
+				"auth.php",
+				"config\\auth.php"
+			],
+			[
+				"registerco",
+				"app\\Http\\Controllers\\Auth\\RegisterController.php"
+			],
+			[
+				"authen",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Authenticatable.php"
+			],
+			[
+				"auth/user",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\User.php"
+			],
+			[
+				"sess",
+				"config\\session.php"
+			],
+			[
+				"auth",
+				"node_modules\\request\\lib\\auth.js"
+			],
+			[
+				"layouts.app",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"database/create",
+				"database\\migrations\\2017_02_22_202408_create_users_table.php"
+			],
+			[
+				"s",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

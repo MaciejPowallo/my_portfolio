@@ -68,8 +68,15 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
 }
 
+.bg-white {
+    background-color: @white;
+}
 .bg-light-gray {
     background-color: @gray-lighter;
+}
+
+.bg-gray-light {
+    background-color: @gray-light;
 }
 
 .bg-darkest-gray {
@@ -213,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
 header {
     background-image: url('../img/header-bg.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;
+
 
     background-position: center center;
  
@@ -824,6 +831,10 @@ body {
 // Rotation about----------------------------------------------------------------------------------
 .circles, .circles * {-moz-transition: 0.1s ease-in; -webkit-transition: 0.1s ease-in; -o-transition: 0.1s ease-in; transition: 0.1s ease-in;} 
 
+#about {
+    padding-bottom: 100px;
+}
+
 @-webkit-keyframes rotation {
   from	{-webkit-transform: rotate(0deg);}
   to		{  -webkit-transform: rotate(360deg);}
@@ -911,13 +922,23 @@ ul.courses li{
     margin: 10px;
 }
 
-.whatCanIDo{
+.whatCanIDo {
     margin-top: 25px;
 
-    .images{
+    .images {
         height: 80px;
         margin: auto auto; 
     }
+
+    .stars:hover > i {
+        -ms-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        transition: all 1s;
+    }
+
     img{
         height: 80%;
         width: auto;

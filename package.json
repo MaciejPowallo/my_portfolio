@@ -1,9 +1,9 @@
 {
-  "name": "maciek",
-  "title": "Maciek",
-  "version": "3.3.7",
+  "name": "maciejpowallo.pl",
+  "title": "portfolio",
+  "version": "2.2.0",
   "homepage": "http://maciejpowallo.pl",
-  "author": "Start Bootstrap",
+  "author": "Maciej Powallo",
   "license": "MIT",
   "devDependencies": {
     "bootstrap": "^3.3.7",
