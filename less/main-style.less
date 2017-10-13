@@ -34,6 +34,10 @@ body {
    text-indent: 100px;
 }
 
+.marg-bootom {
+   margin-bottom: 30px;
+}
+
 p {
    font-size: 14px;
    line-height: 1.75;
@@ -112,6 +116,15 @@ h6 {
    padding: 20px 40px;
 }
 
+.portfolio-modal .img-responsive {
+   border-radius: 3px;
+   margin: 10px;
+   float: right;
+   border: 1px solid #ccc;
+   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 4px 0 rgba(0, 0, 0, 0.19);  
+}
+
+
 .fixed-up {
    position: fixed;
    right: 10px;
@@ -121,7 +134,7 @@ h6 {
 }
 
 #courses {
-   background-image: linear-gradient(to bottom, rgba(150, 150, 150, 0.7) 0%, rgba(255, 255, 255, 0.7) 100%), url('../img/pencil.jpg');
+   background-image: linear-gradient(to bottom, rgba(150, 150, 150, 0.7) 0%, rgba(255, 255, 255, 0.7) 100%), url('../img/main/pencil.jpg');
    background-attachment: fixed;
    background-size: 100% auto;
 }
@@ -227,7 +240,7 @@ h6 {
 }
 
 header {
-   background-image: url('../img/header-bg.jpg');
+   background-image: url('../img/main/header-bg.jpg');
    background-repeat: no-repeat;
 
 
@@ -311,7 +324,6 @@ section {
 // Services Section
 .service-heading {
    margin: 15px 0;
-
    text-transform: none;
 }
 
@@ -618,7 +630,7 @@ aside.clients {
    .sl_img_loading {
       position: absolute;
       display: block;
-      background: url(../img/loading.gif) no-repeat center center;
+      background: url(../img/main/loading.gif) no-repeat center center;
       top: 0px;
       left: 0px;
       width: 100%;
@@ -635,7 +647,7 @@ aside.clients {
 // Contact Section----------------------------------------------------------------------------------
 section#contact {
    background-color: @gray-darker;
-   background-image: url('../img/map-image.png');
+   background-image: url('../img/main/map-image.png');
    background-position: center;
    background-repeat: no-repeat;
    .section-heading {
@@ -758,7 +770,7 @@ ul.social-buttons {
          margin-bottom: 30px;
       }
       p.item-intro {
-         margin: 20px 0 30px;
+         margin: 20px 0 16px;
          .serif-font;
          font-style: italic;
          font-size: 16px;
@@ -1026,10 +1038,54 @@ ul.courses li {
       }
    }
 
-
-
    .row {
       margin: 0;
       padding: 0;
    }
+}
+
+
+//--------------skills-------------------
+#skills {
+   color: @white;
+   background-image: linear-gradient(to bottom, rgba(50, 50, 50, 0.7) 0%, rgba(75, 75, 75, 0.7) 100%), url('../img/main/skill.jpeg');
+   background-attachment: fixed;
+   background-size: 100% auto;
+}
+
+.skills-heading {
+   margin: 15px 0;
+   color: @gray-base;
+   text-transform: none;
+}
+
+.moving_arrow{
+    position:relative;
+    margin-bottom: 0;
+    margin: 0;
+    animation-name: moving_arrow;
+    animation-duration: 1.5s;
+    transition-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+.border-box:hover   .moving_arrow{
+    position:relative;
+    margin-bottom: 0;
+    margin: 0;
+    animation-name: stop_arrow;
+    animation-duration: 1.5s;
+    transition-timing-function: linear;
+    animation-iteration-count: 20;
+}
+
+@keyframes moving_arrow {
+    0%   {color: @white; top: -10px;}
+    50%  {color: @gray-base; top: 0;}
+    100% {color: @white; top: -10px;}
+}
+
+@keyframes stop_arrow {
+    0%   {color:@white; top: -10px;}
+
 }

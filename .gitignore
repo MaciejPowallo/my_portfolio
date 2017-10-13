@@ -1,2 +1,14 @@
+###TEMPORARY FILES###
+Thumbs.db
+*~
+*.tmp
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsdx
+
+###OTHER###
+*.sublime-*
 node_modules
 perks
