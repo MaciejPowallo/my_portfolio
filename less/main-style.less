@@ -1079,6 +1079,15 @@ ul.courses li {
     animation-iteration-count: 20;
 }
 
+.skill-desc{
+   color: @gray;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+}
+
 @keyframes moving_arrow {
     0%   {color: @white; top: -10px;}
     50%  {color: @gray-base; top: 0;}
@@ -1086,6 +1095,5 @@ ul.courses li {
 }
 
 @keyframes stop_arrow {
-    0%   {color:@white; top: -10px;}
-
+    0%   {color: @white; top: -10px;}
 }

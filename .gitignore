@@ -12,3 +12,5 @@ Thumbs.db
 *.sublime-*
 node_modules
 perks
+*.sublime-project
+*.sublime-workspace

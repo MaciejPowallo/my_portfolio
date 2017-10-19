@@ -269,6 +269,12 @@
 	],
 	"file_history":
 	[
+		"/E/Strony/Mazur/bands.php",
+		"/E/Strony/ReggaePolskie/app/res/less/main-style.less",
+		"/E/Strony/portfolio/index.html",
+		"/E/Strony/portfolio/less/main-style.less",
+		"/C/Users/macie/Desktop/omnetpp-5.2/doc/index.html",
+		"/E/Strony/portfolio/LICENSE",
 		"/E/Strony/htmlphp/html.podstawy.php",
 		"/E/Strony/htmlphp/dbconnect.php",
 		"/E/Strony/htmlphp/css.zaawansowane.php",
@@ -286,15 +292,12 @@
 		"/E/Strony/htmlphp/witamy.php",
 		"/E/Strony/htmlphp/zaloguj.php",
 		"/E/Strony/htmlphp/wyloguj.php",
-		"/E/Strony/portfolio/less/main-style.less",
 		"/E/Strony/portfolio/modals.html",
 		"/E/Strony/portfolio/portfolio.html",
-		"/E/Strony/portfolio/index.html",
 		"/E/Strony/portfolio/skills.html",
 		"/E/Strony/htmlphp/connect.php",
 		"/E/Strony/htmlphp/add.php",
 		"/E/Strony/portfolio/README.md",
-		"/E/Strony/ReggaePolskie/app/res/less/main-style.less",
 		"/E/Strony/Neobud/neobud_CMS/app/res/less/main-style.less",
 		"/E/Strony/CMS/app/res/less/main-style.less",
 		"/E/Strony/Neobud/neobud_CMS/sold/terraced-house.php",
@@ -393,14 +396,11 @@
 		"/E/Strony/neobud_CMS/app/res/less/main-style.less",
 		"/E/Strony/neobud_CMS/sold/detached-house.php",
 		"/E/Strony/neobud_CMS/security.php",
-		"/E/Strony/neobud_CMS/README.md",
-		"/E/Strony/neobud_CMS/index.php",
-		"/E/Strony/neobud_CMS/contact.php",
-		"/E/Strony/neobud_CMS/about.php"
+		"/E/Strony/neobud_CMS/README.md"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -414,6 +414,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img",
 			"opis",
 			"ile",
 			"rezultat",
@@ -540,8 +541,7 @@
 			"btn",
 			"changePassword",
 			"SK",
-			">\n",
-			"claen_block_id"
+			">\n"
 		],
 		"highlight": true,
 		"in_selection": false,
