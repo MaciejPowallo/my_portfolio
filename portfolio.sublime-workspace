@@ -203,6 +203,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "less/main-style.less",
+			"settings":
+			{
+				"buffer_size": 22257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 20035,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "skills.html",
+			"settings":
+			{
+				"buffer_size": 28078,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -265,10 +292,12 @@
 	"expanded_folders":
 	[
 		"/E/Strony/portfolio",
-		"/E/Strony/portfolio/less"
+		"/E/Strony/portfolio/less",
+		"/E/Strony/portfolio/mail"
 	],
 	"file_history":
 	[
+		"/E/Strony/portfolio/portfolio.sublime-project",
 		"/E/Strony/Mazur/bands.php",
 		"/E/Strony/ReggaePolskie/app/res/less/main-style.less",
 		"/E/Strony/portfolio/index.html",
@@ -395,12 +424,11 @@
 		"/E/Strony/neobud_CMS/app/res/less/variables.less",
 		"/E/Strony/neobud_CMS/app/res/less/main-style.less",
 		"/E/Strony/neobud_CMS/sold/detached-house.php",
-		"/E/Strony/neobud_CMS/security.php",
-		"/E/Strony/neobud_CMS/README.md"
+		"/E/Strony/neobud_CMS/security.php"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -414,6 +442,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".text",
+			"text",
 			"img",
 			"opis",
 			"ile",
@@ -539,9 +569,7 @@
 			"script",
 			"2",
 			"btn",
-			"changePassword",
-			"SK",
-			">\n"
+			"changePassword"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -559,8 +587,100 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "less/main-style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22257,
+								22257
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13417.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17212,
+								17212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "skills.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1394,
+								1394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
